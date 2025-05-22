@@ -75,7 +75,7 @@ For questions or collaborations, please contact:
 
 - **Maaz Ahmed** – <ahmedmaaz.maaz@gmail.com>
 - **Syeda Munjiba Islam** - <islammunjiba@gmail.com>
-- **Md. Faysal Ahamed** - <faysalahamedjishan@gmail.com>
+- **Md. Faysal Ahamed** - <faysal.ahamed@ece.ruet.ac.bd>
 
 ---
 
