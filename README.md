@@ -99,7 +99,7 @@ Each script will:
 
 If you use this dataset or validation scripts, please cite:  
 - **The TgFC dataset paper is Under Review *(Journal: Scientific Data)***
-- **Cite the Dataset. DOI: [10.6084/m9.figshare.28855910](https://doi.org/10.6084/m9.figshare.28855910.v2)**
+- **Cite the Dataset. DOI: [10.6084/m9.figshare.28855910](https://doi.org/10.6084/m9.figshare.28855910.v3)**
 
 ---
 ## 📬 Contact
