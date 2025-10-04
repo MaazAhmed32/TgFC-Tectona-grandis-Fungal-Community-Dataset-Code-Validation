@@ -1,12 +1,12 @@
 # 🌿 TgFC: Tectona grandis Fungal Community Dataset – Code & Validation
 
-This repository provides scripts and baseline experiments for validating the **Tectona grandis Fungal Community (TgFC) dataset**, a curated microscopic image dataset of fungal spores associated with *Tectona grandis* (teak).
+This repository provides scripts and baseline experiments for validating the **TgFC: Tectona grandis Fungal Community Dataset**, a curated microscopic image dataset of fungal spores associated with *Tectona grandis* (teak).
 It includes **nine YOLO variants** (YOLOv5s/m/l, YOLOv8s/m/l, YOLOv11s/m/l) to benchmark detection performance.
 
 ---
 
 ## 📂 Dataset Overview
-
+Dataset Link: https://doi.org/10.6084/m9.figshare.28855910.v2
 The TgFC dataset contains **5,236 images** of three fungal taxa collected from teak leaves in Bangladesh:
 
 | Class | Total Images | Train (80%) | Validation (10%) | Test (10%) |
@@ -48,28 +48,6 @@ The TgFC dataset contains **5,236 images** of three fungal taxa collected from t
 | YOLO11l  | 0.875 | 0.959 | 0.915 | 0.907 |
 
 ➡️ **YOLO11l** achieved the strongest performance, with balanced precision and recall across all three fungal taxa.  
-
----
-
-## 🔍 Visual Results
-
-### Figure 7 — Confusion Matrix (YOLO11l)
-
-The YOLO11l model achieved >90% correct classification for *Olivea tectonae* and *Colletotrichum siamense*, and 93% for *Neopestalotiopsis*.  
-
-![Figure 7: Confusion Matrix](fig7_confusion_matrix.png)  
-*Replace with actual confusion matrix figure from the paper or training output*  
-
----
-
-### Figure 8 — Qualitative Detection Examples (YOLO11l)
-
-YOLO11l detections across test images:  
-- High-confidence predictions (>90%) for single-class spores  
-- Correct multi-class detection in mixed spore images  
-
-![Figure 8: Detection Examples](fig8_detection_examples.png)  
-*Replace with actual detection example figure from the paper or training output*  
 
 ---
 
@@ -120,8 +98,8 @@ Each script will:
 ## 📑 Citation
 
 If you use this dataset or validation scripts, please cite:  
-- **The TgFC dataset paper**  
-- **Ultralytics YOLO**  
+- **The TgFC dataset paper is Under Review *(Journal: Scientific Data)***
+- **Cite the Dataset. DOI: [10.6084/m9.figshare.28855910](https://doi.org/10.6084/m9.figshare.28855910.v2)**
 
 ---
 ## 📬 Contact
