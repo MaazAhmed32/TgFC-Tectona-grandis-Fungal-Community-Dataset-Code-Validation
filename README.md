@@ -6,7 +6,7 @@ It includes **nine YOLO variants** (YOLOv5s/m/l, YOLOv8s/m/l, YOLOv11s/m/l) to b
 ---
 
 ## 📂 Dataset Overview
-Dataset Link: https://doi.org/10.6084/m9.figshare.28855910.v2
+Dataset Link: https://doi.org/10.6084/m9.figshare.28855910.v3
 The TgFC dataset contains **5,236 images** of three fungal taxa collected from teak leaves in Bangladesh:
 
 | Class | Total Images | Train (80%) | Validation (10%) | Test (10%) |
