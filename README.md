@@ -98,7 +98,7 @@ Each script will:
 ## 📑 Citation
 
 If you use this dataset or validation scripts, please cite:  
-- **The TgFC dataset paper is Under Review *(Journal: Scientific Data)***
+- **The TgFC dataset paper: [Microscopic image dataset of fungal spores for computer vision applications in Tectona grandis and other taxa](https://doi.org/10.1038/s41597-025-06264-2) *(Journal: Scientific Data)***
 - **Cite the Dataset. DOI: [10.6084/m9.figshare.28855910](https://doi.org/10.6084/m9.figshare.28855910)**
 
 ---
