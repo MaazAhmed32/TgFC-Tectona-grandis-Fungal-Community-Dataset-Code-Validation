@@ -102,15 +102,6 @@ If you use this dataset or validation scripts, please cite:
 - **Cite the Dataset. DOI: [10.6084/m9.figshare.28855910](https://doi.org/10.6084/m9.figshare.28855910)**
 
 ---
-## 📬 Contact
-
-For questions or collaborations, please contact:  
-
-- **Maaz Ahmed** – <ahmedmaaz.maaz@gmail.com>
-- **Syeda Munjiba Islam** - <islammunjiba@gmail.com>
-- **Md. Faysal Ahamed** - <faysal.ahamed@ece.ruet.ac.bd>
-
----
 
 ## 📝 License
 
